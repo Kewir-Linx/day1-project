@@ -1,0 +1,63 @@
+ body{
+            background-color: black;
+        }
+        
+ .section1 {
+        background-color: rgb(248, 236, 129);
+        padding: 100px;
+        margin: 100px; 
+        border-radius: 10%;
+
+      
+    }   
+    .section1 h1{
+        color: black;
+        text-align: center;
+        border-radius: 10%;
+
+    }
+    .section2{
+        padding: 100px;
+        background-color: lightcyan;
+        margin: 100px; 
+        border-radius: 10%;
+        
+    }  
+    .section3{
+        background-color: lightcyan;
+        padding: 100px;
+        margin: 100px; 
+        border-radius: 10%;
+
+    }
+    .section4{
+        background-color: lightcyan;
+        padding: 100px;
+        margin: 100px; 
+        border-radius: 10%;
+    }
+    .section5{
+        background-color: greenyellow;
+        color: white;
+        padding: 30px;
+        margin: 80px; 
+        font-size: larger;
+        border-radius: 10%;
+    }.section6{
+        background-color: orange;
+        color: white;
+        padding: 100px;
+        margin: 100px;
+        font-size: larger; 
+        border-radius: 10%;
+    }
+    .pic{
+        border-radius: 50%;
+        width: 30%;
+        height: 30%;
+    }
+    .love{
+        display: flex;
+        justify-content: space-between;
+    }
+    
